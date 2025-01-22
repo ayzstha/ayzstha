@@ -1,6 +1,6 @@
 ## Hi! I'm Aayush :)
 # 💫 About Me:
-🔭 I’m currently working on 2-D Physics Simulation<br>🌱 I’m currently learning Full-Stack Development<br>⚡ Fun fact: I can cook a wide variety of cuisine<br> 📫 How to reach me: @ayzstha on all socials<br>😄 Pronouns: he/him<br>
+🔭 I’m currently working on an AI Trading tool<br>🌱 I’m currently learning Full-Stack Development<br>⚡ Fun fact: I can cook a wide variety of cuisine<br> 📫 How to reach me: @ayzstha on all socials<br>😄 Pronouns: he/him<br>
 
 
 ## 🌐 Socials:
