@@ -4,22 +4,22 @@
 
 ## 🤓 Who am I?
 
-# 🔭 Focus  
+🔭 Focus  
 Full-stack dev, AI, ML, Data Science.  
 
-# 🧠 Expertise  
+🧠 Expertise  
 Python, HTML, JavaScript, C, SQL | Network admin & IT infrastructure.  
 
-# 🌱 Learning  
+🌱 Learning  
 Three.js, React, Node.js, and Network automation.  
 
-# 🤝 Collaboration  
+🤝 Collaboration  
 Organizing coding competitions & networking events.  
 
-# 💻 Current Projects  
+💻 Current Projects  
 Portfolio with Three.js & AI Wordle Solver.  
 
-# 🌍 Personal  
+🌍 Personal  
 🇳🇵 From Nepal | 📍 Based in Idaho, USA  
 🎓 CS-Math Junior at the College of Idaho  
 ⚡ Lifelong vegetarian | 🎨 Hobbies: Cooking, Photography, F1, UFC, Soccer
