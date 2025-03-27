@@ -1,5 +1,6 @@
 
-![Black and Gray Minimalist LinkedIn Banner (1)](https://github.com/user-attachments/assets/fc8037ec-6dac-4c9b-ac38-63a8e786fe4b)
+![Black and Gray Minimalist LinkedIn Banner (2)](https://github.com/user-attachments/assets/f900691b-a20a-4f38-88a5-cac70b82bfa8)
+
 
 ## 🤓 Who am I?
 
@@ -67,19 +68,12 @@
 
 
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayzstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzstha&theme=dark&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayzstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayzstha&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayzstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## ✍️ Quote of the Day
