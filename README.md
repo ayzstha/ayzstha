@@ -4,29 +4,26 @@
 
 ## 🤓 Who am I?
 
-🔭 **Current Focus:** Exploring the intersection of **networking, cybersecurity, and full-stack development**, while building interactive web experiences with **Three.js**.  
+## 🔭 Focus  
+Full-stack dev, AI, ML, Data Science.  
 
-🧠 **My Expertise:** Proficient in **Python, JavaScript, C, and SQL**, with hands-on experience in **network administration and IT infrastructure**. Passionate about optimizing system performance and security.  
+## 🧠 Expertise  
+Python, HTML, JavaScript, C, SQL | Network admin & IT infrastructure.  
 
-🌱 **Always Learning:** Deep diving into **Three.js, React, Node.js, and cloud computing**, while refining my understanding of **network protocols and infrastructure automation**.  
+## 🌱 Learning  
+Three.js, React, Node.js, and Network automation.  
 
-🤝 **Collaboration Goals:** Organizing **coding competitions and networking events** to foster a community of aspiring developers. Leading **student initiatives** that enhance technology accessibility and digital literacy.  
+## 🤝 Collaboration  
+Organizing coding competitions & networking events.  
 
-📊 **Core Competencies:**  
-- **Networking & IT Operations** (Cisco, PowerShell, Linux)  
-- **Web & Software Development** (React, Next.js, Node.js, Tailwind)  
-- **Database Management** (MySQL, MongoDB, Supabase)  
+## 💻 Current Projects  
+Portfolio with Three.js & AI Wordle Solver.  
 
-🔧 **Tech Highlights:**  
-- Skilled in **OOP, network design, and cloud infrastructure**.  
-- Experienced with **Git, Docker, and automation scripting**.  
-- Passionate about **bridging the gap between IT and software engineering**.  
+## 🌍 Personal  
+🇳🇵 From Nepal | 📍 Based in Idaho, USA  
+🎓 CS-Math Junior at the College of Idaho  
+⚡ Lifelong vegetarian | 🎨 Hobbies: Cooking, Photography, F1, UFC, Soccer
 
-💬 **Let’s Chat:** Ask me about **networking, full-stack development, and organizing tech events**—or even Nepalese culture and student leadership!  
-
-⚡ **Fun Fact:** I've been a vegetarian for all my life.  
-
-💻 Currently building my **portfolio website** with **Three.js** and working on an **AI Wordle Solver project**.  
 
 ## 🌐 Connect with Me
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayzstha@gmail.com)
