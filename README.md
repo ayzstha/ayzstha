@@ -85,5 +85,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayzstha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/099d4021-b4d6-483f-bafe-681911e5bd79)
+![image](https://github.com/user-attachments/assets/e8576ef0-aa1d-4935-a2fc-132be98c3063)
+
 
