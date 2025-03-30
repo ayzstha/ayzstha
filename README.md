@@ -66,17 +66,12 @@ Portfolio with Three.js & AI Wordle Solver.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayzstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayzstha&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayzstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![snake gif](https://github.com/ayzstha/ayzstha/blob/output/github-snake-dark.svg)
 
 
 ## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![snake gif](https://github.com/ayzstha/ayzstha/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayzstha&icon=0&color=0)](https://visitcount.itsvg.in)
