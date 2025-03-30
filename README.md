@@ -76,8 +76,7 @@ Portfolio with Three.js & AI Wordle Solver.
 ## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayzstha&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayzstha&icon=0&color=0)](https://visitcount.itsvg.in)
