@@ -1,6 +1,4 @@
-
-![Black and Gray Minimalist LinkedIn Banner](https://github.com/user-attachments/assets/9ec18f73-0032-4ce3-81d8-583cc8c2c405)
-
+![Black and Gray Minimalist LinkedIn Banner (1)](https://github.com/user-attachments/assets/303da2fc-8651-410c-8f01-3d2f61f16f2e)
 
 ## 🤓 Who am I?
 
@@ -61,8 +59,7 @@ Portfolio with Three.js & AI Wordle Solver.
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
 
 ## My Portfolio
-[![image](https://github.com/user-attachments/assets/f52f6a5f-7cea-4a0e-b810-09a7a044c67e)](https://ayzstha.com)
-
+![image](https://github.com/user-attachments/assets/664dc0e1-7b9e-425e-a803-9b5b81201d13)
 
 ## 📊 GitHub Stats
 
