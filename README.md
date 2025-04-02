@@ -1,5 +1,5 @@
 
-![Black and Gray Minimalist LinkedIn Banner (2)](https://github.com/user-attachments/assets/f900691b-a20a-4f38-88a5-cac70b82bfa8)
+![Black and Gray Minimalist LinkedIn Banner](https://github.com/user-attachments/assets/9ec18f73-0032-4ce3-81d8-583cc8c2c405)
 
 
 ## 🤓 Who am I?
