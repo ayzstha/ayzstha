@@ -59,7 +59,7 @@ Portfolio with Three.js & AI Wordle Solver.
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
 
 ## My Portfolio
-[![image](https://github.com/user-attachments/assets/664dc0e1-7b9e-425e-a803-9b5b81201d13)](https://ayzstha.com)
+![image](https://github.com/user-attachments/assets/caf1f974-8e5a-44c1-ac76-c5b978752f26)(https://ayzstha.com)
 
 ## 📊 GitHub Stats
 
