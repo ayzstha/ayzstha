@@ -59,11 +59,11 @@ Portfolio with Three.js & AI Wordle Solver.
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
 
 ## My Portfolio
-![image](https://github.com/user-attachments/assets/caf1f974-8e5a-44c1-ac76-c5b978752f26)(https://ayzstha.com)
+[![Image Alt Text](https://github.com/user-attachments/assets/caf1f974-8e5a-44c1-ac76-c5b978752f26)](https://ayzstha.com)
 
 ## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayzstha&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ayzstha&theme=dark&hide_border=false)
 ![snake gif](https://github.com/ayzstha/ayzstha/blob/output/github-snake-dark.svg)
 
 ## ✍️ Quote of the Day
