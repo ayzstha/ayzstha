@@ -6,7 +6,7 @@
 Full-stack dev, AI, ML, Data Science.  
 
 🧠 Expertise  
-Python, HTML, JavaScript, C, SQL | Network admin & IT infrastructure.  
+Python, HTML, JavaScript, CSS, SQL | Network Engineering & IT infrastructure.  
 
 🌱 Learning  
 Three.js, React, Node.js, and Network automation.  
@@ -18,9 +18,9 @@ Organizing coding competitions & networking events.
 Portfolio with Three.js & AI Wordle Solver.  
 
 🌍 Personal  
-🇳🇵 From Nepal | 📍 Based in Idaho, USA  
-🎓 CS-Math Junior at the College of Idaho  
-⚡ Lifelong vegetarian | 🎨 Hobbies: Cooking, Photography, F1, UFC, Soccer
+🇳🇵 From Nepal | 📍 Based in Boise, Idaho
+🎓 CS-Math Senior at the College of Idaho  
+⚡ I can rap the Alphabet Aerobics | 🎨 Hobbies: Cooking, Photography, F1, UFC, Soccer
 
 
 ## 🌐 Connect with Me
