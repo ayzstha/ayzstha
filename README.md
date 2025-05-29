@@ -9,13 +9,13 @@ Full-stack dev, AI, ML, Data Science.
 Python, HTML, JavaScript, CSS, SQL | Network Engineering & IT infrastructure.  
 
 🌱 Learning  
-Three.js, React, Node.js, and Network automation.  
+TypeScript, React Router, Docker, Kubernetes | Neural Networks. 
 
 🤝 Collaboration  
 Organizing coding competitions & networking events.  
 
 💻 Current Projects  
-Portfolio with Three.js & AI Wordle Solver.  
+AI Wordle Solver.  
 
 🌍 Personal  
 🇳🇵 From Nepal | 📍 Based in Boise, Idaho
