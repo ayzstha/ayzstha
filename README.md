@@ -6,10 +6,10 @@
 Full-stack dev, AI, ML, Data Science.  
 
 🧠 Expertise  
-Python, HTML, JavaScript, CSS, SQL | Network Engineering & IT infrastructure.  
+Python, HTML, JavaScript, CSS, SQL | ML & Data Science
 
 🌱 Learning  
-TypeScript, React Router, Docker, Kubernetes | Neural Networks. 
+TypeScript, React Router, Docker, Kubernetes | Neural Networks | Network Engineering. 
 
 🤝 Collaboration  
 Organizing coding competitions & networking events.  
