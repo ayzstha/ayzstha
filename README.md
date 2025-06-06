@@ -2,6 +2,9 @@
 
 ## 🤓 Who am I?
 
+💻 Current Work  
+Software & Network Engineer Intern @ St. Luke's Health System. 
+
 🔭 Focus  
 Full-stack dev, AI, ML, Data Science.  
 
@@ -13,9 +16,6 @@ TypeScript, React Router, Docker, Kubernetes | Neural Networks | Network Enginee
 
 🤝 Collaboration  
 Organizing coding competitions & networking events.  
-
-💻 Current Projects  
-AI Wordle Solver.  
 
 🌍 Personal  
 🇳🇵 From Nepal | 📍 Based in Boise, Idaho
